@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cyberotomasyon.com/assets/img/logo.png" alt="Cyber Otomasyon" height="80" onerror="this.style.display='none'"/>
+<img src="https://www.cyberotomasyon.com/images/CyberLogo1.png" alt="Cyber Otomasyon" height="80" onerror="this.style.display='none'"/>
 
 # Cyber Otomasyon
 
