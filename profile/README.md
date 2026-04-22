@@ -68,20 +68,6 @@ Türkiye'nin kanatlı hayvancılık sektörüne özel, **makine öğrenmesi dest
 ✅  7/24 teknik destek garantisi
 ```
 
----
-
-## Organizasyon Yapısı
-
-```
-CyberOtomasyon/
-├── Yöneticiler      ─── Şirket sahipleri ve proje yöneticileri (tam erişim)
-└── Yazılımcılar     ─── Geliştirme ekibi (proje bazlı repo erişimi)
-```
-
-> Tüm repolar **private**'tır. Erişim, proje bazlı takım atamasıyla yönetilir.
-> Yeni bir projeye dahil olmak için yöneticinizle iletişime geçin.
-
----
 
 ## İletişim
 
