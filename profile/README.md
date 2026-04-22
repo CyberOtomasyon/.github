@@ -45,11 +45,13 @@ Türkiye'nin kanatlı hayvancılık sektörüne özel, **makine öğrenmesi dest
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
 ### Backend & Altyapı
 ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Geliştirme Araçları
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -78,5 +80,5 @@ Türkiye'nin kanatlı hayvancılık sektörüne özel, **makine öğrenmesi dest
 | 📍 | Türkiye |
 
 <div align="center">
-<sub>© 2024 Cyber Otomasyon · Üretkenliğin Gücünü Serbest Bırakın</sub>
+<sub>© 2026 Cyber Otomasyon · Üretkenliğin Gücünü Serbest Bırakın</sub>
 </div>
