@@ -20,7 +20,7 @@
 
 ## Neler Yapıyoruz?
 
-Türkiye'nin kanatlı hayvancılık sektörüne özel, **makine öğrenmesi destekli** otomasyon ve izleme yazılımları geliştiriyoruz. Üretim ortamlarını uzaktan yönetmek, anlık sensör verilerini takip etmek ve enerji verimliliğini artırmak için bütünleşik bir platform sunuyoruz.
+Kanatlı hayvancılık sektörüne özel, **makine öğrenmesi destekli** otomasyon ve izleme yazılımları geliştiriyoruz. Üretim ortamlarını uzaktan yönetmek, anlık sensör verilerini takip etmek ve enerji verimliliğini artırmak için bütünleşik bir platform sunuyoruz.
 
 ---
 
@@ -28,34 +28,13 @@ Türkiye'nin kanatlı hayvancılık sektörüne özel, **makine öğrenmesi dest
 
 | | Ürün | Açıklama |
 |---|---|---|
-| 📱 | **Cyber Online Mobil** | Flutter tabanlı iOS & Android uzaktan izleme uygulaması |
-| 🖥️ | **Web Yönetim Paneli** | PHP tabanlı çiftlik ve kümes yönetim arayüzü |
+| 📱 | **Cyber Online Mobil** |  iOS & Android uzaktan izleme uygulaması |
 | ⚡ | **Otomasyon Paneli** | 8 çekirdek, 8GB RAM Android tabanlı saha kontrolörü |
 | 🌡️ | **Sensör Sistemleri** | Sıcaklık, nem ve CO₂ gerçek zamanlı izleme sensörleri |
 | 🔧 | **Klape Motor Sistemi** | Otomatik, öncelikli ve pasif modlu havalandırma kontrolü |
 | 📊 | **Akıllı Raporlama** | Günlük / haftalık / aylık analiz ve trend grafikleri |
 | 🤖 | **Makine Öğrenmesi** | Sürekli öğrenen sistem optimizasyon motoru |
 | 🛎️ | **7/24 Teknik Destek** | Uzaktan ve yerinde teknik yardım hizmeti |
-
----
-
-## Teknoloji Yığını
-
-### Mobil & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-
-### Backend & Altyapı
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Geliştirme Araçları
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -73,9 +52,9 @@ Türkiye'nin kanatlı hayvancılık sektörüne özel, **makine öğrenmesi dest
 
 ## İletişim
 
-| | |
+
+| 🌐 |[cyberotomasyon.com](https://www.cyberotomasyon.com) |
 |---|---|
-| 🌐 | [cyberotomasyon.com](https://www.cyberotomasyon.com) |
 | 📧 | info@cyberotomasyon.com |
 | 📍 | Türkiye |
 
