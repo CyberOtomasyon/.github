@@ -26,6 +26,14 @@ Doldurmadan önce:
 ## Etki
 <!-- Numaralı liste: bu bug kimi/neyi nasıl etkiliyor. -->
 
+### Düzeltilmezse
+<!-- "Etki" bugünü anlatır, burası yarını: ertelenirse ne olacak? Öncelik
+     tartışmasını bitirecek somut şeyler yazın — bu yüzden bekleyen bir iş,
+     büyüyecek maruziyet (bugün 1 müşteri, dönüşüm başlayınca her yeni abone),
+     geçici çözümün yetmediği durumlar, aynı hatanın tekrar etme ihtimali.
+     Ertelemenin bilinen bir maliyeti yoksa bu bölümü tamamen silin —
+     doldurmak için senaryo uydurmayın. -->
+
 ## 🩹 Geçici çözüm
 <!-- Kalıcı düzeltme gelene kadar sahada/kullanıcıda ne yapılabilir? Somut ve
      uygulanabilir olsun (ör. "siyah ekran görülünce panelden restart",
